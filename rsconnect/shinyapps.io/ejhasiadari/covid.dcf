@@ -1,13 +1,4 @@
-name: covid
 title: covid
-username:
 account: ejhasiadari
 server: shinyapps.io
-hostUrl: https://api.shinyapps.io/v1
-appId: 8440676
-bundleId: 6900059
 url: https://ejhasiadari.shinyapps.io/covid/
-when: 1677633080.48317
-lastSyncTime: 1677633080.4832
-asMultiple: FALSE
-asStatic: FALSE
